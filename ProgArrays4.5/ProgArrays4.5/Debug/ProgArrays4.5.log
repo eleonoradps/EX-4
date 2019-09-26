@@ -1,0 +1,5 @@
+﻿  ProgArrays4_5.cpp
+C:\Users\lorna\source\repos\ProgArrays4.5\ProgArrays4.5\ProgArrays4_5.cpp(15,12): warning C4244:  'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\lorna\source\repos\ProgArrays4.5\ProgArrays4.5\ProgArrays4_5.cpp(14,6): warning C4101:  'choix' : variable locale non référencée
+C:\Users\lorna\source\repos\ProgArrays4.5\ProgArrays4.5\ProgArrays4_5.cpp(12,6): warning C4101:  'i' : variable locale non référencée
+  ProgArrays4.5.vcxproj -> C:\Users\lorna\source\repos\ProgArrays4.5\Debug\ProgArrays4.5.exe
